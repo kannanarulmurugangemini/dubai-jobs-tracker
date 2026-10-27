@@ -1,13 +1,14 @@
 # Dubai/UAE IT Jobs — Verified Vacancies
 
-## Ranking of best 3 matches (refreshed 2026-10-18, private-sector batch)
-Profile: IT fields, 3–5 years experience, Dubai first, expatriate eligibility recorded.
+## Ranking of best 3 matches (refreshed 2026-10-27)
+Profile: IT support/helpdesk/desktop/sysadmin, Dubai first, expatriate eligibility recorded, matched to RESUME.md verified skills only.
 
-1. **SAP Technical Project Manager (Michael Page, JN-102026-7120539, Dubai)** — ERP/IT-PM role at AED 250k, private employer with no nationality restriction, agency-handled application; best profile fit among active listings (ERP focus mirrors prior ERP Specialist verification).
-2. **IT Officer — Al Habtoor Grand Resort (catererglobal.com, job108084180)** — active until 03/11/2026, generalist IT support/infrastructure, private hotel (no nationality restriction); experience bar unspecified but hospitality preference.
-3. **IT Assistant — voco Dubai Monaco (catererglobal.com, job107989671)** — active until 28/10/2026 (~10 days), first-level support incl. user accounts/hardware; entry-friendlier than the rest; private employer, no nationality restriction.
+1. **Field Support Analyst — Emirates Flight Catering (EKFC) (LinkedIn 4480972251, Dubai)** — desktop OS/Office installs, file/print servers, hardware upgrades, 5y band; mirrors his printer/scanner firmware + TCP hardware automation record. Live & detail-verified 2026-10-27.
+2. **IT Support Engineer — Taqeef (LinkedIn 4476147203, Dubai)** — classic helpdesk: diagnostics, user walk-throughs, helpdesk reporting, deployments. Live & detail-verified 2026-10-27 (posted ~22d).
+3. **IT Support Officer — Nextcare (LinkedIn 4482481023, Dubai)** — desktop provisioning, O365, AD, network + business apps, 3y+; textbook all-rounder fit. Live & detail-verified 2026-10-27. (Runner-up: Socium L2 IT Support Engineer, LinkedIn 4481835749, posted 1d — contract role.)
 
-Also active (verify before applying): Group Head Technology Healthcare (AED 800k, senior+Arabic-plus), VP Analytics (AED 800k, 8–10y+ quantitative — above typical 3–5y band), Senior Infrastructure and Technology Engineer (Charterhouse 53774 — detail page bot-walled, needs browser), plus the 5 government rows from 2026-10-15 (RTA Chief Analyst InfoSec remains the only expat-eligible government option, closes 05/11/2026).
+Also active (verify before applying): Purple Rock MSP AED 70–90k/yr (confirmed on LinkedIn pay field), Transmed, TCS IT EUC, MERED, Emirates Group Global Field Support, MAF EUC, IT Apps Dev & Support Manager AED 28–33k/mo via Michael Page. Full 31-role ranked table: reports/Dubai_IT_Jobs_2026-10-27.md.
+Removed from active set 2026-10-27: Al Habtoor IT Officer (pulled from CatererGlobal before its 03/11 close date), Group Head Technology + VP Analytics (absent from Michael Page listing).
 
 ---
 

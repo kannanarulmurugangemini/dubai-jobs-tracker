@@ -1,0 +1,36 @@
+{
+  "schema": "dubaijobs.candidate/1.0",
+  "status": "partial_awaiting_user_export",
+  "source_of_truth": "https://www.linkedin.com/in/kannanarulmurugan/",
+  "last_checked": "2026-10-18",
+  "identity": {
+    "name": "Arulmurugan Kannan",
+    "linkedin": "https://www.linkedin.com/in/kannanarulmurugan/",
+    "headline": null,
+    "location": null
+  },
+  "about": null,
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "certifications": [],
+  "projects": [],
+  "linkedin_metadata": {
+    "last_updated_on_profile": null,
+    "read_blockers": [
+      "HTTP 999 anti-bot wall on 2026-10-18 (curl)",
+      "browser MCP stacks pending /reload-mcp"
+    ]
+  },
+  "preferences_from_user_instructions": {
+    "field": "IT",
+    "location_priority": "Dubai",
+    "experience_band_discussed": "3-5 years"
+  },
+  "change_log": [
+    {
+      "date": "2026-10-18",
+      "change": "created; LinkedIn unreadable (HTTP 999); all LinkedIn-sourced sections left null per no-guessing rule; awaiting user export/paste"
+    }
+  ]
+}

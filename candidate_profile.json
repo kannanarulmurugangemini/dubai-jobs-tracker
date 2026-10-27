@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-10-18T22:40:00+00:00",
+  "generated_by": "hermes-agent, Python fallback instruction 2026-10-18",
+  "linkedin": {
+    "profile_url": "https://www.linkedin.com/in/kannanarulmurugan/",
+    "status": "NOT_FETCHED",
+    "last_checked": null,
+    "fetch_blockers": [
+      "2026-10-18: Playwright MCP EACCES creating /opt/data/.cache/ms-playwright-mcp (dir owned by uid 1000, server runs as uid 10000); config fixed with XDG_CACHE_HOME override",
+      "2026-10-18: Chromium crashpad SIGTRAP at launch under Hermes scrubbed server env (missing HOME); HOME fix applied to config and verified via scrubbed-env probe; live MCP server restart still pending",
+      "No LinkedIn profile content was ever received; fields intentionally left empty rather than guessed (per user instruction)",
+      "2026-10-18: LinkedIn returned HTTP 999 anti-bot response to curl (parallel session probe)"
+    ],
+    "sections": {
+      "headline": null,
+      "about": null,
+      "skills": null,
+      "experience": null,
+      "education": null,
+      "certifications": null,
+      "projects": null,
+      "profile_last_updated": null
+    }
+  },
+  "candidate_preferences": {
+    "source": "Established during 2026-10-15 government-portal run; recorded in VERIFIED.md header",
+    "job_fields": "IT",
+    "experience_band_target": "3-5 years",
+    "location_priority": "Dubai first",
+    "notes": "Expatriate eligibility recorded per vacancy; UAE-national-only government roles flagged"
+  },
+  "vacancies_source_files": [
+    "/opt/data/DubaiJobs/VERIFIED.md",
+    "/opt/data/DubaiJobs/CANDIDATES.md",
+    "/opt/data/DubaiJobs/PROGRESS.md"
+  ],
+  "vacancies": [
+    {
+      "title": "Network Engineer",
+      "employer": "Professional Communication Corporation (Dubai Police)",
+      "location": "Dubai",
+      "closes": "Ongoing",
+      "salary": null,
+      "employment_type": null,
+      "expat_eligibility": "NO - UAE Only",
+      "url": "https://jobs.dubaicareers.ae/careersection/dubaicareers/jobdetail.ftl?job=26002452",
+      "source": "jobs.dubaicareers.ae",
+      "verified_on": "2026-10-15"
+    },
+    {
+      "title": "ERP Specialist",
+      "employer": "Dubai Government Human Resource Department",
+      "location": "Dubai",
+      "closes": "24/12/2026",
+      "salary": null,
+      "employment_type": null,
+      "expat_eligibility": "NO - UAE Only",
+      "url": "https://jobs.dubaicareers.ae/careersection/dubaicareers/jobdetail.ftl?job=26003001",
+      "source": "jobs.dubaicareers.ae",
+      "verified_on": "2026-10-15"
+    },
+    {
+      "title": "Applications Development Manager",
+      "employer": "Dubai Culture",
+      "location": "Dubai",
+      "closes": "04/11/2026",
+      "salary": "AED 30,001-40,000",
+      "employment_type": null,
+      "expat_eligibility": "NO - UAE Only",
+      "url": "https://jobs.dubaicareers.ae/careersection/dubaicareers/jobdetail.ftl?job=25002963",
+      "source": "jobs.dubaicareers.ae",
+      "verified_on": "2026-10-15"
+    },
+    {
+      "title": "Chief Analyst - Information Security",
+      "employer": "Roads and Transport Authority (RTA)",
+      "location": "Dubai",
+      "closes": "05/11/2026",
+      "salary": null,
+      "employment_type": null,
+      "expat_eligibility": "YES - All Nationalities (Priority for UAE National)",
+      "url": "https://jobs.dubaicareers.ae/careersection/dubaicareers/jobdetail.ftl?job=26003247",
+      "source": "jobs.dubaicareers.ae",
+      "verified_on": "2026-10-15"
+    },
+    {
+      "title": "PCFC - Information Technology Graduate",
+      "employer": "Ports, Customs and Free Zone Corporation",
+      "location": "Dubai",
+      "closes": "22/10/2026",
+      "salary": null,
+      "employment_type": null,
+      "expat_eligibility": "NO - UAE Only",
+      "url": "https://jobs.dubaicareers.ae/careersection/dubaicareers/jobdetail.ftl?job=26002726",
+      "source": "jobs.dubaicareers.ae",
+      "verified_on": "2026-10-15"
+    },
+    {
+      "title": "IT Officer",
+      "employer": "Al Habtoor Grand Resort, Autograph Collection (Marriott)",
+      "location": "Dubai, UAE",
+      "closes": "03/11/2026",
+      "salary": null,
+      "employment_type": "FULL_TIME",
+      "expat_eligibility": "No restriction stated (private employer)",
+      "url": "https://www.catererglobal.com/job/it-officer/al-habtoor-grand-resort-autograph-collection-job108084180",
+      "source": "catererglobal.com",
+      "verified_on": "2026-10-18"
+    },
+    {
+      "title": "IT Assistant",
+      "employer": "voco Dubai Monaco, The Heart of Europe (IHG)",
+      "location": "World Islands, Dubai, UAE",
+      "closes": "28/10/2026",
+      "salary": null,
+      "employment_type": "FULL_TIME",
+      "expat_eligibility": "No restriction stated (private employer)",
+      "url": "https://www.catererglobal.com/job/it-assistant/voco-dubai-monaco-the-heart-of-europe-job107989671",
+      "source": "catererglobal.com",
+      "verified_on": "2026-10-18"
+    },
+    {
+      "title": "SAP Technical Project Manager",
+      "employer": "Confidential UAE organisation (via Michael Page)",
+      "location": "Dubai",
+      "closes": "Not stated",
+      "salary": "AED 250,000",
+      "employment_type": "Permanent",
+      "expat_eligibility": "No restriction stated (agency role)",
+      "url": "https://www.michaelpage.ae/job-detail/sap-technical-project-manager/ref/jn-102026-7120539",
+      "source": "michaelpage.ae",
+      "verified_on": "2026-10-18"
+    },
+    {
+      "title": "Group Head Technology (Healthcare)",
+      "employer": "Confidential healthcare provider (via Michael Page)",
+      "location": "Dubai",
+      "closes": "Not stated",
+      "salary": "AED 800,000",
+      "employment_type": null,
+      "expat_eligibility": "No restriction stated; Arabic a plus",
+      "url": "https://www.michaelpage.ae/job-detail/group-head-technology-healthcare-industry/ref/jn-102026-7125396",
+      "source": "michaelpage.ae",
+      "verified_on": "2026-10-18"
+    },
+    {
+      "title": "VP Analytics",
+      "employer": "Sovereign/institutional investor (via Michael Page)",
+      "location": "Dubai",
+      "closes": "Not stated",
+      "salary": "AED 800,000",
+      "employment_type": null,
+      "expat_eligibility": "No restriction stated (agency role)",
+      "url": "https://www.michaelpage.ae/job-detail/vp-analytics/ref/jn-082026-7081299",
+      "source": "michaelpage.ae",
+      "verified_on": "2026-10-18"
+    }
+  ],
+  "identity": {
+    "name": "Arulmurugan Kannan",
+    "name_source": "Resume header 2026-10-19: 'Arulmurugan (Arul Murugan)'; LinkedIn slug kannanarulmurugan consistent",
+    "email": "kannanarulmuruganwork@gmail.com",
+    "phone": "+91 9047184592",
+    "linkedin": "https://www.linkedin.com/in/kannanarulmurugan/"
+  },
+  "change_log": [
+    {
+      "date": "2026-10-18T22:35",
+      "change": "file created by parallel session; LinkedIn unreadable (HTTP 999); sections null per no-guessing rule"
+    },
+    {
+      "date": "2026-10-18T22:40",
+      "change": "rewritten from VERIFIED.md/CANDIDATES.md data (10 vacancies + preferences); previous version backed up as candidate_profile.json.bak-20261018-224000"
+    },
+    {
+      "date": "2026-10-18T22:47",
+      "change": "merged preserved fields from backup: identity.name (URL slug), HTTP 999 blocker, change_log structure; LinkedIn status remains NOT_FETCHED"
+    },
+    {
+      "date": "2026-10-19",
+      "change": "user-supplied resume fetched from Google Drive; verbatim text saved to /opt/data/DubaiJobs/RESUME.md; contact/headline/experience/education/skills/certifications filled from resume (source: resume, not LinkedIn)"
+    }
+  ],
+  "resume": {
+    "source_url": "https://drive.google.com/uc?export=download&id=1_Ppv1NrAo__cpPU0MKZwITflL4VpixXn",
+    "fetched_at": "2026-10-19",
+    "file": "/opt/data/DubaiJobs/RESUME.md",
+    "title": "Professional Career Dossier & Complete Resume: Arul Murugan",
+    "headline": "Aspiring Neural Network Engineer | Senior Web Developer | Machine Learning Enthusiast | Programmer – R&D",
+    "mission": "Modernizing Legacy Systems using Generative AI",
+    "experience": [
+      {"role": "Programmer", "company": "sysu Information Technology", "duration": "Sep 2014 - Jul 2019 (4y 11m)"},
+      {"role": "Independent Business Owner", "company": "Agricultural products enterprise", "duration": "Aug 2019 - Present", "location": "Perambalur, Tamil Nadu, India"}
+    ],
+    "education": [
+      {"degree": "MCA", "institution": "Easwari Engineering College (SRM Group)", "duration": "Aug 2008 - May 2011", "standing": "First Class"},
+      {"degree": "BSc Computer Science", "institution": "Urumu Dhanalakshmi College", "duration": "Jul 2005 - Apr 2008", "standing": "A++"},
+      {"degree": "HDCA Diploma", "institution": "CSC", "duration": "Aug 2004 - Aug 2005", "standing": "A"}
+    ],
+    "skills": ["TensorFlow", "Keras", "Python", "CNN", "Transformers", "BERT", "Attention", "LLMs", "Generative AI", "AI Agents", "Computer Vision", "JavaScript", "Node.js", "C#", "C", "C++", "ASP.NET", "AngularJS", "AWS EC2", "AWS S3", "Google Cloud", "REST APIs", "Twilio", "Socket.io", "WebSockets", "WebRTC", "TCP sockets", "Payment gateways", "Google Maps/Calendar APIs", "Microsoft SQL Server", "Delphi-to-C# migration"]
+  },
+  "status": "resume_on_file_2026-10-19"
+}
